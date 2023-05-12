@@ -40,13 +40,6 @@ public class Car {
         this.distance = distance;
     }
 
-    //@Override
-            /* public String toString() {
-        return "Car{" +
-                "volume=" + volume +
-                ", consumption=" + consumption +
-                ", remainder=" + remainder +
-                ", distance=" + distance +
-                '}'; */
+
     }
 
